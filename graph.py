@@ -218,33 +218,35 @@ def route_decision(state: AgentState) -> Literal["answer", "tool"]:
 
 # Build Graph
 def create_graph():
-    """Create the LangGraph workflow"""
     graph = StateGraph(AgentState)
-    
+
     # Add nodes
     graph.add_node("retrieve", retrieve_node)
     graph.add_node("decide", decide_node)
     graph.add_node("tool", tool_node)
-    graph.add_node("answer", answer_node)
-    
-    # Add edges
+    graph.add_node("final_answer", answer_node)  # renamed
+
+    # Entry
     graph.set_entry_point("retrieve")
-    graph.add_edge("retrieve", "decide")
     
+    # Edges
+    graph.add_edge("retrieve", "decide")
+
     # Conditional routing
     graph.add_conditional_edges(
         "decide",
         route_decision,
         {
             "tool": "tool",
-            "answer": "answer"
+            "answer": "final_answer"   # renamed
         }
     )
-    
-    graph.add_edge("tool", "answer")
-    graph.add_edge("answer", END)
-    
+
+    graph.add_edge("tool", "final_answer")  # renamed
+    graph.add_edge("final_answer", END)     # renamed
+
     return graph.compile()
+
 
 # Create the graph
 workflow = create_graph()
