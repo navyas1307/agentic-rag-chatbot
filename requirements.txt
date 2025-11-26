@@ -2,11 +2,10 @@ fastapi
 uvicorn[standard]
 python-dotenv
 
-chromadb==0.4.22
+chromadb==0.5.4
 sentence-transformers
 PyPDF2
 
-# LangChain stack (compatible with langgraph 0.0.26)
 langchain==0.1.16
 langchain-core==0.1.46
 langchain-community==0.0.33
@@ -16,5 +15,3 @@ google-generativeai==0.3.2
 requests
 numpy
 pydantic
-
-
