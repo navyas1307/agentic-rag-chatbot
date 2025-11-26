@@ -1,0 +1,89 @@
+PAYMENT METHODS AND INFORMATION
+
+Accepted Payment Methods
+
+Credit and Debit Cards
+We accept all major credit and debit cards including Visa, Mastercard, American Express, and RuPay. Payments are processed securely through our payment gateway.
+
+UPI (Unified Payments Interface)
+Pay instantly using UPI apps like Google Pay, PhonePe, Paytm, and BHIM. Simply scan the QR code or enter your UPI ID at checkout.
+
+Net Banking
+We support net banking from all major banks in India including:
+- State Bank of India
+- HDFC Bank
+- ICICI Bank
+- Axis Bank
+- Kotak Mahindra Bank
+- And 50+ other banks
+
+Digital Wallets
+Pay using popular digital wallets:
+- Paytm Wallet
+- PhonePe Wallet
+- Amazon Pay
+- Mobikwik
+- Freecharge
+
+Cash on Delivery (COD)
+Cash on Delivery is available for orders up to ₹50,000. COD orders below ₹1,000 have a handling fee of ₹50. COD is not available for all pin codes - check availability at checkout.
+
+Buy Now Pay Later
+We partner with Simpl, LazyPay, and ZestMoney to offer Buy Now Pay Later options. Split your payment into 3 interest-free installments.
+
+EMI Options
+Convert purchases above ₹3,000 into easy EMIs:
+- 3 months: No Cost EMI available
+- 6 months: No Cost EMI available
+- 9 months: Interest charges apply
+- 12 months: Interest charges apply
+
+International Payments
+For international customers, we accept:
+- International Credit/Debit Cards
+- PayPal
+- Wire Transfer (for bulk orders)
+
+Payment Security
+All payments are processed through 256-bit SSL encryption. We never store your complete card details. Our payment gateway is PCI-DSS compliant ensuring maximum security.
+
+Payment Issues
+
+Failed Transactions
+If your payment fails but amount is deducted:
+- The amount will be automatically refunded within 5-7 business days
+- Contact your bank if refund is delayed beyond 10 days
+- Email us at payments@company.com with transaction details
+
+Payment Confirmation
+You will receive payment confirmation via:
+- Email to your registered email ID
+- SMS to your registered mobile number
+- Order confirmation on the website
+
+Refund Methods
+Refunds are processed to the original payment method:
+- Card payments: 5-7 business days
+- UPI/Wallet: 2-3 business days
+- Net Banking: 5-7 business days
+- COD orders: Bank transfer or store credit within 7 days
+
+Pricing and Currency
+All prices are listed in Indian Rupees (₹). International customers will see prices in their local currency at checkout with applicable conversion rates.
+
+Taxes and Charges
+- GST is included in the displayed price
+- Delivery charges are added at checkout
+- No hidden charges or fees
+
+Offers and Discounts
+- Discount codes can be applied at checkout
+- Only one discount code per order
+- Offers cannot be combined unless specified
+- Bank-specific offers available on select cards
+
+Contact Payment Support
+For payment related queries:
+Email: payments@company.com
+Phone: 1800-123-4569
+Available: Monday to Saturday, 9 AM to 7 PM
